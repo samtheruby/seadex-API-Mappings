@@ -40,6 +40,27 @@
       ]
     }
   },
+      "akira": {
+      "anilist_id": 47,
+      "anime_name": "AKIRA",
+      "anime_format": "Movie",
+      "also_search": [
+        "Akira",
+        "AKIRA",
+        "アキラ",
+        "Akira 1988"
+      ],
+      "torrents": [
+        {
+          "nyaa_id": 1548873,
+          "name": "Akira.1988.REPACK.1080p.BluRay.SEADEX-BEST.Dual-Audio.FLAC.x264-hydes"
+        },
+        {
+          "nyaa_id": 1828382,
+          "name": "Akira.1988.REPACK.1080p.BluRay.REMUX.COMMUNITY-ALT.AVC.Dual-Audio.FLAC-hydes"
+        }
+      ]
+    },
   "settings": {
     "fallback_to_seadex": true,
     "priority": "mapping_first"

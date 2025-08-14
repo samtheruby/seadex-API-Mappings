@@ -38,12 +38,12 @@
           "name": "Given.2019.S01.1080p.BluRay.SEADEX-BEST.Dual-Audio.OPUS.x265-smol"
         }
       ]
-    }
-  },
-      "akira": {
+    },
+    "akira": {
       "anilist_id": 47,
       "anime_name": "AKIRA",
-      "anime_format": "Movie",
+      "anime_format": "MOVIE",
+      "year": 1988,
       "also_search": [
         "Akira",
         "AKIRA",
@@ -60,7 +60,8 @@
           "name": "Akira.1988.REPACK.1080p.BluRay.REMUX.COMMUNITY-ALT.AVC.Dual-Audio.FLAC-hydes"
         }
       ]
-    },
+    }
+  },
   "settings": {
     "fallback_to_seadex": true,
     "priority": "mapping_first"

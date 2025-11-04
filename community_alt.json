@@ -1,0 +1,21 @@
+{
+  "mappings": {
+    "akira": {
+      "anilist_id": 47,
+      "anime_name": "AKIRA",
+      "anime_format": "MOVIE",
+      "year": 1988,
+      "also_search": ["Akira", "AKIRA"],
+      "torrents": [
+        {
+          "nyaa_id": 1828382,
+          "name": "Akira.1988.REPACK.1080p.BluRay.REMUX.COMMUNITY-ALT.AVC.Dual-Audio.FLAC-hydes"
+        }
+      ]
+    }
+  },
+  "settings": {
+    "fallback_to_seadex": true,
+    "priority": "mapping_first"
+  }
+}
